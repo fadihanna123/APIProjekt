@@ -31,7 +31,6 @@ css/main.css <br />
 css/mobile.css <br />
 js/ <br />
 js/loadAll.js <br />
-js/loadAll.min.js <br />
 TS/ <br />
 TS/loadAll.ts <br />
 Images/ <br />
