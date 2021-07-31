@@ -3,6 +3,10 @@
   border-bottom: 1px $solidbrd #000000; /* Täcka en bottenram 1 pixlar med typen solid och den ska ha färgen #000000 */
 }
 
+#{map-get($selectorMap, word)} {
+  margin-bottom: 15px;
+}
+
 #{map-get($selectorMap, loginBox2)} {
   padding: 10px; /* Gör litet rum 10 pixlar överallt i logga in delen */
 }

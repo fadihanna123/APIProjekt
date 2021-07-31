@@ -10,7 +10,7 @@
         include './lib/' . $class . '.class.php';
     });
 
-    define("DBHOST", "SERVER");
-    define("DBDATABASE", "DB");
-    define("DBUSER", "USERNAME");
-    define("DBPASS", "PASSWORD");
+    define("DBHOST", "localhost");
+    define("DBDATABASE", "blogg");
+    define("DBUSER", "root");
+    define("DBPASS", "");

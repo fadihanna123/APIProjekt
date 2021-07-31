@@ -17,7 +17,7 @@
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css'
         integrity='sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=='
         crossorigin='anonymous' />
-    <link rel='stylesheet' type='text/css' href='css/_main.min.css?t=<?php echo time() ?>' />
+    <link rel='stylesheet' type='text/css' href='css/main.min.css?t=<?php echo time() ?>' />
 </head>
 
 <body>
@@ -57,13 +57,13 @@
 
                     <?php
 
-                        echo '<h2>De senaste 5 inlägg</h2>';
+                        echo '<h1>De senaste 5 inlägg</h1>';
 
                         // Visa de senaste 5 inlägg
                         $posts->showPosts();
                         
                         // Visa de registrerade användare
-                        echo '<div>De registrerade användare</div>';
+                        echo '<h1>De registrerade användare</h1>';
                         $posts->showUsers();
 
                    ?>
