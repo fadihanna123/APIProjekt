@@ -144,7 +144,7 @@ img {
 }
 
 .logobox {
-  background: url("../Images/Logo.jpg") no-repeat center center;
+  background: url("../images/Logo.jpg") no-repeat center center;
   /* Lägg till bakgrundsbild(Logotypen) och att den itnte upprepas och det blir centrerat */
   height: 320px;
   /* Gör längden 320 pixlar för logotypen */

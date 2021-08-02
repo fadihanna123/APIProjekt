@@ -31,10 +31,10 @@ css/main.css <br />
 css/mobile.css <br />
 js/ <br />
 js/loadAll.js <br />
-TS/ <br />
-TS/loadAll.ts <br />
-Images/ <br />
-Images/Logo.jpg <br />
+ts/ <br />
+ts/loadAll.ts <br />
+images/ <br />
+images/Logo.jpg <br />
 includes/ <br />
 includes/classes/ <br />
 includes/classes/posts.class.php <br />
@@ -52,8 +52,8 @@ includes/requests/login.php <br />
 includes/requests/register.php <br />
 includes/requests/search.php <br />
 includes/requests/showposts.php <br />
-Includes/config.php <br />
-Includes/loader.php <br />
+includes/config.php <br />
+includes/loader.php <br />
 blogg.sql <br />
 index.php <br />
 package.json <br />
